@@ -1,0 +1,16 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Vous êtes libre de :
+- Partager — copier, distribuer et transmettre le matériel
+- Adapter — remixer, transformer, et créer à partir du matériel
+
+Selon les conditions suivantes :
+- Attribution — Vous devez créditer l’auteur originel (ejsnews) de manière appropriée.
+- Non Commercial — Vous n’êtes pas autorisé à utiliser ce matériel à des fins commerciales, sauf accord écrit préalable.
+
+L’accès à la clé de déchiffrement du code source n’est pas inclus dans cette licence.  
+Toute demande d’accès ou de cession de la clé doit faire l’objet d’une négociation directe et écrite avec l’auteur (ejsnews).
+
+Pour plus de détails, voir : https://creativecommons.org/licenses/by-nc/4.0/legalcode.fr
+
+Certains codes, algorithmes et calculs restent confidentiels et ne sont pas distribués publiquement.

@@ -1,0 +1,33 @@
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+# Ignore secrets
+*.env
+*.key
+*.pem
+
+# Ignore log files
+*.log

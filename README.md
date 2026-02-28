@@ -1,76 +1,89 @@
-# ejsnews
+# Eric Jacob Simon — ejsnews
 
-> Mathématicien indépendant | Physicien | Développeur amateur  
-> Passionné par les récurrences linéaires et leurs secrets naturels
-
----
-
-## À propos
-
-Chercheur autodidacte, je consacre mes travaux à l’exploration des récurrences linéaires de degré *n*, nombres premiers, dont les formules révèlent la beauté et la complexité des lois de la nature.  
-Des applications majeures touchent la métrologie, la cristallographie, les ondes, les résonances, les fractales et les canaux de circulation quantique.
-
-### Mes recherches
-
-- **Algorithmes avancés pour la génération de formules symboliques** (constantes, exemples de calculs)
-- **Récurrences linéaires complexes** : Certaines formules sont monumentales dès n=3 et n=4, tandis que d’autres, à des degrés supérieurs, se distinguent par leur élégance et leur simplicité.
-- **Valeur scientifique** : Ces résultats hébergent des secrets fondamentaux sur la nature.
+**FR** | Chercheur indépendant en mathématiques théoriques et physique mathématique.  
+**EN** | Independent researcher in theoretical mathematics and mathematical physics.
 
 ---
 
-## Théorie et code
+## Vision / Vision
 
-La théorie mathématique sous-jacente à ces travaux est inédite et d’une grande complexité ; elle n’a pas encore fait l’objet d’une publication formelle.  
-Toutefois, elle a été entièrement codée et vérifiée via Python :  
-- Le code chiffré constitue la seule trace complète et opérationnelle de la théorie.
-- La divulgation de la clé de déchiffrement donnera accès à cette théorie et à ses applications.
+**FR**  
+Depuis 1987, je développe une théorie unificatrice reliant la physique cosmologique, la mécanique quantique et les structures mathématiques profondes des nombres réels et complexes.  
+La conviction centrale : **les entiers que recense l'OEIS ne sont qu'une projection 1D d'une réalité géométrique en 3D/4D**. Les récurrences linéaires et les structures de nombres premiers en sont les empreintes algébriques.  
+Après 37 ans de réflexion et 10 ans de formalisation mathématique intensive, ces travaux convergent vers une théorie d'unification des concepts, du niveau de Planck jusqu'à l'échelle cosmologique.
 
-De nombreux phénomènes physiques y sont englobés : séries de Fourier, résonance, polynômes, exponentielles, et bien d’autres.
-
----
-
-## Sécurité et robustesse du code
-
-L’algorithme a nécessité plus de deux ans de travail intensif (12h/jour, 7j/7).  
-Le code n’a pas été obfusqué : il est conçu pour être compréhensible et vérifiable scientifiquement, mais il est chiffré avec des méthodes avancées.
-
-Le chiffrement appliqué est pensé pour résister aux tentatives de décryptage, y compris par des IA classiques ou quantiques, pour au moins les 50 prochaines années.
-
-La divulgation du code déchiffré reste entièrement sous mon contrôle et n’interviendra que dans des conditions strictement définies (négociation, enchère, ou circonstance personnelle).
+**EN**  
+Since 1987, I have been developing a unifying theory connecting cosmological physics, quantum mechanics, and the deep mathematical structures of real and complex numbers.  
+The central conviction : **the integers catalogued in OEIS are merely a 1D projection of a 3D/4D geometric reality**. Linear recurrences and prime number structures are its algebraic signatures.  
+After 37 years of reflection and 10 years of intensive mathematical formalization, this work converges toward a unification of concepts, from the Planck scale to the cosmological scale.
 
 ---
 
-## Pérennité et publication
+## Recherches / Research
 
-Ayant constaté la fragilité des plateformes comme HAL, Arxiv ou OEIS pour les chercheurs indépendants, je publierai ici :
-- Des extraits et démonstrations symboliques sur GitHub.
-- Une archive durable sur Zenodo (DOI), garantissant la conservation de mes travaux.
+### 1. Récurrences linéaires généralisées — *Generalized Linear Recurrences* ✅ *(achevée / completed)*
 
-**NB : Certains algorithmes et calculs restent confidentiels, protégés par chiffrement. Les formules et exemples publiés illustrent leur potentiel sans révéler le cœur du procédé.**
+**FR** — Théorie propriétaire générant des expressions symboliques exactes pour des récurrences linéaires de **tout degré**, avec paramètres complexes et fractionnaires. Connectée aux séries de Fourier, résonances, polynômes, symétries de spin et structures géométriques. Un corpus de **300 000 constantes géométriques** est publié dans l'Atlas ci-dessous.
 
----
+**EN** — Proprietary theory generating exact closed-form symbolic expressions for linear recurrences of **any degree**, with complex and fractional parameters. Connected to Fourier series, resonances, polynomials, spin symmetries and geometric structures. A corpus of **300,000 geometric constants** is published in the Atlas below.
 
-## Accès à la clé et collaboration
-
-L’accès à la clé de déchiffrement du code source principal (et donc à la génération de données numériques très précises, calculs à 100 chiffres et plus, etc.)  
-— est **négociable**. Les organisations, entreprises ou groupes de recherche intéressés peuvent prendre contact pour discuter d’un partenariat, d’une acquisition, ou d’une levée de fonds.
-
-Toute proposition sérieuse (financement, achat, collaboration, etc.) sera étudiée.  
-Des plateformes de levée de fonds ou d’enchères peuvent être envisagées pour la cession de la clé et des droits associés.
+> 4 ans de théorie + 2 ans de calculs systématiques / *4 years of theory + 2 years of systematic computation*
 
 ---
 
-## Site de démonstration
+### 2. Structures de nombres premiers & phénomènes quantiques — *Prime Structures & Quantum Phenomena* 🔬 *(en cours / in progress)*
 
-La plateforme de démonstration interactive sera prochainement disponible ici :  
-*Lien à venir*
+**FR** — Théorie explorant la relation structurelle entre la distribution des nombres premiers et les propriétés quantiques : intrication, niveaux d'énergie, création de matière depuis le vide, décohérence. Les arbres de premiers (EJS Primes Trees) en constituent la représentation géométrique.
 
----
+**EN** — Theory exploring the structural relationship between prime number distributions and quantum properties : entanglement, energy levels, matter creation from vacuum, decoherence. Prime trees (EJS Primes Trees) form their geometric representation.
 
-*Pour toute prise de contact scientifique ou professionnel, merci d’utiliser la messagerie GitHub ou l’adresse suivante :*
-
-**ejsnews@gmail.com**
+> 2 ans de théorie, calculs actifs en cours / *2 years of theory, active computations ongoing*
 
 ---
 
-> “Dans les récurrences se cachent les lois les plus subtiles de la nature.”
+### 3. Manifeste théorique — *Theoretical Manifesto* 📐 *(en préparation / in preparation)*
+
+**FR** — Synthèse unificatrice de 37 ans de recherche : de l'échelle de Planck au cosmos, via une mathématique des nombres réels et complexes en 3D/4D dont les entiers naturels ne sont qu'une projection.
+
+**EN** — Unifying synthesis of 37 years of research : from the Planck scale to the cosmos, through a mathematics of real and complex numbers in 3D/4D, of which the natural integers are merely a projection.
+
+---
+
+## Dépôts publiés / Published Repositories
+
+| Dépôt / Repository | Contenu / Content | État / Status |
+|---|---|---|
+| [universal-atlas](https://github.com/ejsnews/universal-atlas) | 300 000 constantes géométriques, expressions LaTeX symboliques, index 50 chiffres | ✅ Public |
+| Structures de premiers / Prime structures | Arbres EJS, classification énergétique quantique | 🔬 En préparation |
+| Manifeste / Manifesto | Planck → quantique → macro → cosmos | 📐 En préparation |
+
+---
+
+## À propos / About
+
+**FR**  
+Chercheur indépendant depuis 1987. Sans affiliation institutionnelle.  
+Formation : Grandes Écoles (Maths Sup/Spé), DEA en mesures physiques, Bac+2 informatique.  
+Tous les algorithmes sont implémentés et vérifiés en Python.  
+Les données publiées constituent des résultats vérifiables et un horodatage formel de priorité de découverte.
+
+**EN**  
+Independent researcher since 1987. No institutional affiliation.  
+Background : Grandes Écoles (Maths Sup/Spé), DEA in physical measurements, 2-year CS degree.  
+All algorithms implemented and verified in Python.  
+Published data serve as verifiable results and a formal timestamp of priority of discovery.
+
+**© 2026 Eric Jacob Simon — All Rights Reserved.**  
+Usage scientifique non commercial libre avec attribution. Usage commercial sur accord préalable.  
+*Free non-commercial scientific use with attribution. Commercial use requires prior agreement.*
+
+---
+
+## Contact
+
+GitHub messages — **ejsnews@gmail.com**
+
+---
+
+> *« Dans les récurrences se cachent les lois les plus subtiles de la nature. »*  
+> *"Within recurrences lie the most subtle laws of nature."*

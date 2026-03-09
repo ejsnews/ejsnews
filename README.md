@@ -4,7 +4,8 @@
 [Consulter la version Web](https://ejsnews.github.io/)
 
 **EN** | Independent researcher in theoretical mathematics and mathematical physics.
-[Consult the Web version](https://ejsnews.github.io/)
+[View web version](https://ejsnews.github.io/)
+
 ---
 
 ## Vision / Vision

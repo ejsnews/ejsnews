@@ -1,6 +1,6 @@
 ## Eric Jacob Simon — ejsnews
 
-**FR** | Chercheur indépendant en mathématiques théoriques et physique mathématique.  
+**FR** | Chercheur indépendant en mathématiques théoriques et physique mathématique.
 [Consulter la version Web](https://ejsnews.github.io/)
 
 **EN** | Independent researcher in theoretical mathematics and mathematical physics.

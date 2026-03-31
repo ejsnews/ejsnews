@@ -16,6 +16,7 @@ Sous les conditions suivantes :
   · Attribution — Vous devez créditer l'auteur : Eric Jacob Simon (ejsnews)
   · Non commercial — Toute utilisation commerciale est interdite
     sans accord écrit préalable de l'auteur.
+  · Toute exploitation commerciale donnera lieu à une négociation de royalties avec l'auteur.
 
 Éléments non couverts par cette licence :
   · Les algorithmes source et leur logique interne
@@ -40,6 +41,7 @@ Under the following conditions :
   · Attribution — You must credit the author : Eric Jacob Simon (ejsnews)
   · NonCommercial — Commercial use is prohibited
     without prior written agreement from the author.
+  · Any commercial exploitation will give rise to a negotiation of royalties with the author.
 
 Elements not covered by this license :
   · The source algorithms and their internal logic

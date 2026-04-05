@@ -19,8 +19,6 @@
 **FR :** Chercheur indépendant en mathématiques théoriques et physique mathématique.  
 **EN :** Independent researcher in theoretical mathematics and mathematical physics.
 
-[Consulter la version Web / View web version](https://ejsnews.github.io/)
-
 ---
 
 ## Vision / Vision

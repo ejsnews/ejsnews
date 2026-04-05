@@ -1,20 +1,25 @@
-## Eric Jacob Simon — ejsnews
-# ejsnews
+## ejsnews
 
-**Fait partie du projet Codex EJS**
+**Part of the Codex EJS Project**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19423203.svg)](https://doi.org/10.5281/zenodo.19423203)
 
-**DOI :** [10.5281/zenodo.19423203](https://doi.org/10.5281/zenodo.19423203)
+**DOI :** [10.5281/zenodo.19423203](https://doi.org/10.5281/zenodo.19423203)  
+**Version 1.0 — 5 avril 2026**
 
-Voir le site principal : https://ejsnews.github.io  
-DOI du site : [10.5281/zenodo.19418709](https://doi.org/10.5281/zenodo.19418709)
+**Site principal / Main website :** [https://ejsnews.github.io](https://ejsnews.github.io)
 
-**FR** | Chercheur indépendant en mathématiques théoriques et physique mathématique.
-[Consulter la version Web](https://ejsnews.github.io/)
+---
 
-**EN** | Independent researcher in theoretical mathematics and mathematical physics.
-[View web version](https://ejsnews.github.io/)
+### 📐 Eric Jacob Simon — ejsnews
+
+**Propriété Intellectuelle — Eric Jacob Simon (EJSNews) — 2026**  
+**Intellectual Property — Eric Jacob Simon (EJSNews) — 2026**
+
+**FR :** Chercheur indépendant en mathématiques théoriques et physique mathématique.  
+**EN :** Independent researcher in theoretical mathematics and mathematical physics.
+
+[Consulter la version Web / View web version](https://ejsnews.github.io/)
 
 ---
 

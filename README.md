@@ -11,10 +11,10 @@
 
 ---
 
-### 📐 Eric Jacob Simon — ejsnews
+### 📐 Eric Jacob — ejsnews
 
-**Propriété Intellectuelle — Eric Jacob Simon (EJSNews) — 2026**  
-**Intellectual Property — Eric Jacob Simon (EJSNews) — 2026**
+**Propriété Intellectuelle — Eric Jacob (EJSNews) — 2026**  
+**Intellectual Property — Eric Jacob (EJSNews) — 2026**
 
 **FR :** Chercheur indépendant en mathématiques théoriques et physique mathématique.  
 **EN :** Independent researcher in theoretical mathematics and mathematical physics.
@@ -89,7 +89,7 @@ Background : Grandes Écoles (Maths Sup/Spé), DEA in physical measurements, 2-y
 All algorithms implemented and verified in Python.  
 Published data serve as verifiable results and a formal timestamp of priority of discovery.
 
-**© 2026 Eric Jacob Simon — All Rights Reserved.**  
+**© 2026 Eric Jacob — All Rights Reserved.**  
 Usage scientifique non commercial libre avec attribution. Usage commercial sur accord préalable.  
 *Free non-commercial scientific use with attribution. Commercial use requires prior agreement.*
 
